@@ -4,8 +4,8 @@
 
 - Name: [Lokesh Bandaru]
 - Date: [11/09/25]
-- Repository: https://github.com/Lokeshloki8886/Lokesh.githup.io
-- Live URL: https://lokeshloki8886.github.io/Lokesh.githup.io/
+- Repository: https://github.com/Lokeshloki8886/Lokeshloki8886.github.io
+- Live URL: https://lokeshloki8886.github.io
 
 ## Deployment History
 
