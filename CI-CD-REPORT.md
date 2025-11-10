@@ -62,7 +62,8 @@ This helps teams release new features faster and maintain a more reliable applic
 
 ## Screenshots
 
-- [ ] Initial deployment <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c191283f-d550-4ad0-beb5-0f53d7d54038" />
+- [ ] Initial deployment <img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/da4173aa-3465-4cae-a956-01e29367f574" />
+
 
 - [ ] GitHub Actions tab showing successful builds <img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/ca9d6c49-852e-48aa-b56b-26cc2573bfe0" />
 
