@@ -62,11 +62,11 @@ This helps teams release new features faster and maintain a more reliable applic
 
 ## Screenshots
 
-- [ ] Initial deployment <img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/da4173aa-3465-4cae-a956-01e29367f574" />
+- [ ]  <img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/da4173aa-3465-4cae-a956-01e29367f574" />
 
 
-- [ ] GitHub Actions tab showing successful builds <img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/ca9d6c49-852e-48aa-b56b-26cc2573bfe0" />
+- [ ]  <img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/ca9d6c49-852e-48aa-b56b-26cc2573bfe0" />
 
-- [ ] Live website after final iteration <img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/7126ef07-ba40-4d95-a5ae-90fb9d138912" />
+- [ ]  <img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/7126ef07-ba40-4d95-a5ae-90fb9d138912" />
 
       
