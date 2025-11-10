@@ -15,20 +15,20 @@ Check the Actions tab for complete deployment history.
 
 1. **Initial Deployment**
 
-   - Commit: de0d1220049473ceaee1c2e51fc4765130709f28
+   - Commit: de0d119221858684
    - Time to Deploy: 42 seconds
    - Status: Success
 
 2. **Iteration 1: Personalization**
 
-   - Commit: 2c8adbddef5e2d1f33a8f053bbc071d556dab7ff
+   - Commit: 19221977962
    - Changes Made: added trello board link
    - Deployment Time: 41
 
 3. **Iteration 2: Deploy Info**
 
-   - Commit: https://github.com/Lokeshloki8886/Lokesh.githup.io/actions/runs/19203037840
-   - Changes Made: [List changes]
+   - Commit: 19222168803
+   - Changes Made: personal information added
    - Deployment Time: 41
 
 4. **Iteration 3: Feature Branch**
@@ -40,21 +40,25 @@ Check the Actions tab for complete deployment history.
 
 ### What is CI/CD?
 
-[Your explanation in 2-3 sentences]
+CI/CD means automating how you build, test, and deliver code — so every time you make a change, it’s quickly and safely tested and deployed without doing everything manually.
 
 ### Benefits Observed
 
-1. [Benefit 1 you noticed]
-2. [Benefit 2 you noticed]
-3. [Benefit 3 you noticed]
+Changes go live instantly after pushing to GitHub.
+
+No need to manually upload files — it saves time.
+
+Helps catch mistakes early through automated builds.
 
 ### Challenges Faced
 
-[Any issues you encountered and how you solved them]
+i faced that changes not showing .i fixed it by hard refresh.
 
 ### Real-World Application
 
-[How would this apply to larger software projects? 3-4 sentences]
+in larger software projects, CI/CD ensures that updates from multiple developers are integrated smoothly.
+It automatically tests the code before deployment, reducing human error.
+This helps teams release new features faster and maintain a more reliable application.
 
 ## Screenshots
 
@@ -62,7 +66,3 @@ Check the Actions tab for complete deployment history.
 - [ ] GitHub Actions tab showing successful builds
 - [ ] Live website after final iteration
       Commit and push this report:
-
-git add CI-CD-REPORT.md
-git commit -m "Add CI/CD pipeline report"
-git push origin main
